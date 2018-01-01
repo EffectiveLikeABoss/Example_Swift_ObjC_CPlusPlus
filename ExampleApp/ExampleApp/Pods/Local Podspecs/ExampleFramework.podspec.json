@@ -1,0 +1,21 @@
+{
+  "name": "ExampleFramework",
+  "version": "0.0.1",
+  "summary": "No summary",
+  "description": "ExampleFramework",
+  "homepage": "http://effectivelikeaboss.com/",
+  "authors": {
+    "effectivelikeaboss": "effectivelikeaboss.supp@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/EffectiveLikeABoss"
+  },
+  "source_files": [
+    "ExampleFramework/api/**/*.{h,m,mm}",
+    "ExampleFramework/core/**/*.{h,hpp,c,cpp,m,mm}"
+  ],
+  "public_header_files": "ExampleFramework/api/**/*.{h}"
+}
